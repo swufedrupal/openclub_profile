@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the openclub_profiles feature.
+ */
+
+include_once('openclub_profiles.features.inc');
